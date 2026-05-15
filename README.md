@@ -52,6 +52,22 @@ weather-etl-project/
 
 ---
 
+## Project Execution
+
+1. Clone the repository https://github.com/chantharith-NY/Weather-ETL-Pipeline-with-Airflow-PySpark-and-PostgreSQL.git
+
+2. Run docker-compose.yml file
+
+3. Log into Postgres Database with the Username and Password in docker-compose.yml
+
+4. Log into Airflow Web with the username (admin) and password in the terminal.
+
+5. You'll see a DAG file name weather_etl_dag
+
+6. Click on that dag and click run trigger.
+
+---
+
 ## Project Features
 
 - Apache Airflow DAG orchestration

@@ -27,3 +27,6 @@ airflow.db
 
 # virtual environment
 venv/
+
+# docker compose
+docker-compose.yml
