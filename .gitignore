@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Airflow logs
+logs/
+
+# Spark output
+metastore_db/
+*.crc
+
+# Mac
+.DS_Store
+
+# Data files
+data/raw/*.csv
+data/processed/*
+
+# Airflow
+airflow.db
+
+# enivonment
+.env
+
+# virtual environment
+venv/
